@@ -104,7 +104,7 @@ Gathering information before the attack
 
 - **DNS Record Types**
 
-  - | Name  | Description        | Purpose                                        |
+    | Name  | Description        | Purpose                                        |
     | ----- | ------------------ | ---------------------------------------------- |
     | SRV   | Service            | Points to a specific service                   |
     | SOA   | Start of Authority | Indicates the authoritative NS for a namespace |
