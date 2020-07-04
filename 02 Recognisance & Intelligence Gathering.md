@@ -33,10 +33,12 @@ Gathering information before the attack
 
 - Nmap runs by default at a T3 level
 - Tools: Nmap, Zenmap, Hping3, AngeryIP
+
 **Passive Footprinting** Reading logs, passive log analysis 
 - **Network Devices** 
 - Protocal: SNMP
 - Devices: Switch or Routers
+
 | Level | Name| Example|
 | ----- | ----| -------|
 | 0 | Emergency| Failure causing shutdown |
@@ -47,7 +49,8 @@ Gathering information before the attack
 | 5 | Notification| Protocol up/down |
 | 6 | Informational| ACL violation |
 | 7 | Debugging| Debug message |
-- ** Netflow** - Different as code exists in firmware
+
+- **Netflow** - Different as code exists in firmware
 
 - **Netflow** - Summery of traffic
 - **Netstat** - Show active TCP/UDP connections
