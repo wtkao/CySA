@@ -35,7 +35,9 @@ Gathering information before the attack
 - Tools: Nmap, Zenmap, Hping3, AngeryIP
 
 **Passive Footprinting** Reading logs, passive log analysis 
-- **Network Devices** 
+
+**Network Devices** 
+
 - Protocal: SNMP
 - Devices: Switch or Routers
 
