@@ -100,19 +100,19 @@ Gathering information before the attack
 
 DNS/<br>
 ├── gTDC/ Generic Top Level Domian<br>
-│   ├── .com<br>
-│   ├── .org<br>
-│   ├── .net<br>
+│	├── .com<br>
+│   	├── .org<br>
+│  	├── .net<br>
 ├── ccTDC/ Country Code Top Level Domain<br>
-│   ├── .us<br>
-│   ├── .ie<br>
-│   ├── .co.uk<br>
+│   	├── .us<br>
+│   	├── .ie<br>
+│   	├── .co.uk<br>
 └── RIR/ Region Internet Registries<br>
-    ├── AFRINIC<br>
-    ├── ARIN - North America<br>
-    ├── APNIC<br>
-    ├── LACNIC<br>
-    ├── RIPE NCC<br>
+    	├── AFRINIC<br>
+    	├── ARIN - North America<br>
+    	├── APNIC<br>
+    	├── LACNIC<br>
+    	├── RIPE NCC<br>
 
   - **ARIN** - North America
   - **APNIC** - Asia Pacific
