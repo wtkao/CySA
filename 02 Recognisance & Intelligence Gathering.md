@@ -93,19 +93,19 @@ Gathering information before the attack
     - **netstat -t** displays TCP
     - **netstat -u** displays UDP
     
-### DNS + Whois 
+### DNS + Whois
 
 **DNS**
 
-**gTDC/** Generic Top Level Domian
+- **gTDC/** Generic Top Level Domian
 	- .com
 	- .org
 	- .net
-**ccTDC/** Country Code Top Level Domain
+- **ccTDC/** Country Code Top Level Domain
 	- .us
 	- .ie
 	- .co.uk
-**RIR/** Region Internet Registries
+- **RIR/** Region Internet Registries
 	- **ARIN** - North America
  	- **APNIC** - Asia Pacific
  	- **RIPE** - Europe, Middle East
