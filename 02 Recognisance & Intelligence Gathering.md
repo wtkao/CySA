@@ -89,6 +89,26 @@ Gathering information before the attack
 - **Dig** - unix-based command like nslookup
 
   - dig @server name type
+  
+  - dig axfr @dns-server domain.name
+  
+  -host -t axfr domain.name dns-server
 
+- Zone transfer replicates all records
 
+- **Name resolvers** answer requests
+
+- **Authoritative Servers** hold all records for a namespace
+
+- **DNS Record Types**
+
+  - | Name  | Description        | Purpose                                        |
+    | ----- | ------------------ | ---------------------------------------------- |
+    | SRV   | Service            | Points to a specific service                   |
+    | SOA   | Start of Authority | Indicates the authoritative NS for a namespace |
+    | PTR   | Pointer            | Maps an IP to a hostname                       |
+    | NS    | Nameserver         | Lists the nameservers for a namespace          |
+    | MX    | Mail Exchange      | Lists email servers                            |
+    | CNAME | Canonical Name     | Maps a name to an A reccord                    |
+    | A     | Address            | Maps an hostname to an IP address              |
 
