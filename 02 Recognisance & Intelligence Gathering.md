@@ -98,11 +98,11 @@ Gathering information before the attack
 - **ccTDC** - Country Code Top Level Domain
 - **RIR** - Region Internet Registries
 
-DNS/
-├── gTDC/ Generic Top Level Domian
-│   ├── .com
-│   ├── .org
-│   ├── .net
+DNS/<br>
+├── gTDC/ Generic Top Level Domian<br>
+│   ├── .com<br>
+│   ├── .org<br>
+│   ├── .net<br>
 ├── ccTDC/ Country Code Top Level Domain
 │   ├── .us
 │   ├── .ie
