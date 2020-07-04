@@ -59,7 +59,7 @@ Gathering information before the attack
 - There is a read-only and a read-write version
 - Default read-only string is **public** and default read-write is **private**
 - These are sent in cleartext unless using SNMP v3
-- <code>enable</code> hightins privilege on Cisco device. Simoler to <code>Sudo</code>
+- <code>enable</code> Heightens privilege on Cisco device. Similar to <code>Sudo</code>
 - **Tools**
   - Engineer's Toolset
   - SNMPScanner
