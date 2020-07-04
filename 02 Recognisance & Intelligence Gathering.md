@@ -108,17 +108,11 @@ Gathering information before the attack
 	- .ie
 	- .co.uk
 - RIR/ Region Internet Registries
-	- AFRINIC
-	- ARIN - North America
-	- APNIC
-	- LACNIC
-	- RIPE NCC
-
-  - **ARIN** - North America
-  - **APNIC** - Asia Pacific
-  - **RIPE** - Europe, Middle East
-  - **LACNIC** - Latin America
-  - **AFRINIC** - Africa
+	- **ARIN** - North America
+ 	- **APNIC** - Asia Pacific
+ 	- **RIPE** - Europe, Middle East
+ 	- **LACNIC** - Latin America
+ 	- **AFRINIC** - Africa
 
 - **Whois** - obtains registration information for the domain
 
