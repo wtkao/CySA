@@ -52,8 +52,6 @@ Gathering information before the attack
 | 6 | Informational| ACL violation |
 | 7 | Debugging| Debug message |
 
-- **Netflow** - Different as code exists in firmware
-
 - **Netflow** - Summery of traffic
 - **Netstat** - Show active TCP/UDP connections
 - **DHCP** - Logs in /var/log/dhcp.log
@@ -64,5 +62,33 @@ Gathering information before the attack
 	- Setup logs : When apps start
 	- System logs: events caused by windows components (OS logs)
 	- Forwarded events: events from remote machines 
+**DNS + Whois** 	
+- **IP Address Management**
+
+  - **ARIN** - North America
+  - **APNIC** - Asia Pacific
+  - **RIPE** - Europe, Middle East
+  - **LACNIC** - Latin America
+  - **AfriNIC** - Africa
+
+- **Whois** - obtains registration information for the domain
+
+- **Nslookup** - performs DNS queries
+
+  - nslookup [ - options ] [ hostname ]
+  - interactive zone transfer
+    - nslookup
+    - server <IP Address>
+    - set type = any
+    - ls -d domainname.com
+	- MX = Mail
+	- NS = Name servers
+	- SOA = Start of authority
+	- ALL = all
+
+- **Dig** - unix-based command like nslookup
+
+  - dig @server name type
+
 
 
