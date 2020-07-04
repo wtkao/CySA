@@ -103,16 +103,16 @@ DNS/<br>
 │   ├── .com<br>
 │   ├── .org<br>
 │   ├── .net<br>
-├── ccTDC/ Country Code Top Level Domain
-│   ├── .us
-│   ├── .ie
-│   ├── .co.uk
-└── RIR/ Region Internet Registries
-    ├── AFRINIC
-    ├── ARIN - North America
-    ├── APNIC
-    ├── LACNIC
-    ├── RIPE NCC
+├── ccTDC/ Country Code Top Level Domain<br>
+│   ├── .us<br>
+│   ├── .ie<br>
+│   ├── .co.uk<br>
+└── RIR/ Region Internet Registries<br>
+    ├── AFRINIC<br>
+    ├── ARIN - North America<br>
+    ├── APNIC<br>
+    ├── LACNIC<br>
+    ├── RIPE NCC<br>
 
   - **ARIN** - North America
   - **APNIC** - Asia Pacific
