@@ -39,9 +39,9 @@ Gathering information before the attack
 - Nmap runs by default at a T3 level
 - **Tools:** Nmap, Zenmap, Hping3, AngeryIP
 
-**Passive Footprinting** Reading logs, passive log analysis**
+**Passive Footprinting** Reading logs, passive log analysis
 
-- **journalctl** View logs
+- <code>journalctl</code> View logs
 
 **Network Devices** 
 
@@ -132,11 +132,11 @@ Gathering information before the attack
 
 - **Dig** - unix-based command like nslookup
 
-  - dig @server name type
+  - <code>dig @server name type</code>
   
-  - dig axfr @dns-server domain.name
+  - <code>dig axfr @dns-server domain.name</code>
   
-  - host -t axfr domain.name dns-server
+  - <code>host -t axfr domain.name dns-server</code>
 
 - Zone transfer replicates all records
 
