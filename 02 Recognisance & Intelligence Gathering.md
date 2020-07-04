@@ -58,7 +58,6 @@ Gathering information before the attack
 | 7 | Debugging| Debug message |
 
 - **Netflow** - Summery of traffic
-- **Netstat** - Show active TCP/UDP connections
 - **DHCP** - Logs in /var/log/dhcp.log
 - **Firewall** - Contains ACLs & Logs
 - **System Logs(Syslogs)** - /var/logs/
@@ -67,7 +66,8 @@ Gathering information before the attack
 	- Setup logs : When apps start
 	- System logs: events caused by windows components (OS logs)
 	- Forwarded events: events from remote machines 
-	
+- **Netstat** - Show active TCP/UDP connections
+
 **DNS + Whois** 
 
 - **IP Address Management**
