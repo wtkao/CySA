@@ -43,8 +43,25 @@ Gathering information before the attack
 
 **Network Devices** 
 
-- Protocal: SNMP
+- Protocal: SNMP - port 161
+- SMNP Trap = Alert messege
 - Devices: Switch or Routers
+- **Management Information Base** (MIB) - database that stores information
+- **Object Identifiers** (OID) - identifiers for information stored in MIB
+- **SNMP GET** - gets information about the system
+- **SNMP SET** - sets information about the system
+- **Types of objects**
+  - **Scalar** - single object
+  - **Tabular** - multiple related objects that can be grouped together
+- SNMP uses community strings which function as passwords
+- There is a read-only and a read-write version
+- Default read-only string is **public** and default read-write is **private**
+- These are sent in cleartext unless using SNMP v3
+- **Tools**
+  - Engineer's Toolset
+  - SNMPScanner
+  - OpUtils 5
+  - SNScan
 
 | Level | Name| Example|
 | ----- | ----| -------|
@@ -67,16 +84,41 @@ Gathering information before the attack
 	- System logs: events caused by windows components (OS logs)
 	- Forwarded events: events from remote machines 
 - **Netstat** - Show active TCP/UDP connections
-
+    - Shows open ports on computer
+    - **netstat -a** displays both listening and non-listening
+    - **netstat -an** displays connections in numerical form
+    - **netstat -b** displays executables tied to the open port (admin only)
+    - **netstat -o** displays information related to networking timers
+    - **netstat -e** Display additional information. Use this option twice for maximum detail
+    - **netstat -t** displays TCP
+    - **netstat -u** displays UDP
 **DNS + Whois** 
 
-- **IP Address Management**
+- **gTDC** - Generic Top Level Domian
+- **ccTDC** - Country Code Top Level Domain
+- **RIR** - Region Internet Registries
+
+DNS/
+├── gTDC/ Generic Top Level Domian
+│   ├── .com
+│   ├── .org
+│   ├── .net
+├── ccTDC/ Country Code Top Level Domain
+│   ├── .us
+│   ├── .ie
+│   ├── .co.uk
+└── RIR/ Region Internet Registries
+    ├── AFRINIC
+    ├── ARIN - North America
+    ├── APNIC
+    ├── LACNIC
+    ├── RIPE NCC
 
   - **ARIN** - North America
   - **APNIC** - Asia Pacific
   - **RIPE** - Europe, Middle East
   - **LACNIC** - Latin America
-  - **AfriNIC** - Africa
+  - **AFRINIC** - Africa
 
 - **Whois** - obtains registration information for the domain
 
