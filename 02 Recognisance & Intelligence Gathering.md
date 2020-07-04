@@ -62,7 +62,9 @@ Gathering information before the attack
 	- Setup logs : When apps start
 	- System logs: events caused by windows components (OS logs)
 	- Forwarded events: events from remote machines 
-**DNS + Whois** 	
+	
+**DNS + Whois** 
+
 - **IP Address Management**
 
   - **ARIN** - North America
