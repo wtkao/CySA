@@ -94,7 +94,7 @@ Gathering information before the attack
   
   - dig axfr @dns-server domain.name
   
-  -host -t axfr domain.name dns-server
+  - host -t axfr domain.name dns-server
 
 - Zone transfer replicates all records
 
