@@ -39,7 +39,9 @@ Gathering information before the attack
 - Nmap runs by default at a T3 level
 - **Tools:** Nmap, Zenmap, Hping3, AngeryIP
 
-**Passive Footprinting** Reading logs, passive log analysis 
+**Passive Footprinting** Reading logs, passive log analysis**
+
+- **journalctl** View logs
 
 **Network Devices** 
 
@@ -57,6 +59,7 @@ Gathering information before the attack
 - There is a read-only and a read-write version
 - Default read-only string is **public** and default read-write is **private**
 - These are sent in cleartext unless using SNMP v3
+- <code>enable</code> hightins privilege on Cisco device. Simoler to <code>Sudo</code>
 - **Tools**
   - Engineer's Toolset
   - SNMPScanner
@@ -153,4 +156,15 @@ Gathering information before the attack
     | CNAME | Canonical Name     | Maps a name to an A reccord                    |
     | A     | Address            | Maps an hostname to an IP address              |
 
+- **SOA Record Fields**
+  - **Source Host** - hostname of the primary DNS
+  - **Contact Email** - email for the person responsible for the zone file
+  - **Serial Number** - revision number that increments with each change
+  - **Refresh Time** - time in which an update should occur
+  - **Retry Time** - time that a NS should wait on a failure
+  - **Expire Time** - time in which a zone transfer is allowed to complete
+  - **TTL** - minimum TTL for records within the zone
+
 - **Tools:** theHarvister, Maltego, Shodan
+
+- **EDGAR financial database:**  Public financial data
