@@ -93,7 +93,7 @@ Gathering information before the attack
     - **netstat -t** displays TCP
     - **netstat -u** displays UDP
     
-### DNS + Whois** 
+### DNS + Whois 
 
 **DNS**
 
