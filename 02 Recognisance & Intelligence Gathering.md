@@ -32,7 +32,7 @@ Gathering information before the attack
 | -T3 through -T5 | Parallel scans.  T3 is slowest                               |
 
 - Nmap runs by default at a T3 level
-- Tools: Nmap, Zenmap, Hping3, AngeryIP
+- **Tools:** Nmap, Zenmap, Hping3, AngeryIP
 
 **Passive Footprinting** Reading logs, passive log analysis 
 
@@ -114,3 +114,4 @@ Gathering information before the attack
     | CNAME | Canonical Name     | Maps a name to an A reccord                    |
     | A     | Address            | Maps an hostname to an IP address              |
 
+- **Tools:** theHarvister, Maltego, Shodan
