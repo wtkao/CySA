@@ -100,11 +100,11 @@ Gathering information before the attack
 
 **DNS**
 
-- **gTDC/** Generic Top Level Domian
+- **gTLD/** Generic Top Level Domian
 	- .com
 	- .org
 	- .net
-- **ccTDC/** Country Code Top Level Domain
+- **ccTLD/** Country Code Top Level Domain
 	- .us
 	- .ie
 	- .co.uk
@@ -167,4 +167,18 @@ Gathering information before the attack
 
 - **Tools:** theHarvister, Maltego, Shodan
 
+- **Creepy:** geolocation tool for social media
+
 - **EDGAR financial database:**  Public financial data
+
+### Preventing Recognisance 
+
+**Preventing Passive Recognisance**
+-	Limit external exposure & services
+-	Use a IPS
+-	Use monitoring & alerting
+**Preventing Active Recognisance**
+-	Blacklist systems & networks
+-	Use CAPTCHAS
+-	User rate limiting
+-	Don’t publish Zone Transfers 
