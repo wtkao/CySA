@@ -177,6 +177,7 @@ Gathering information before the attack
 -	Limit external exposure & services
 -	Use a IPS
 -	Use monitoring & alerting
+
 **Preventing Active Recognisance**
 -	Blacklist systems & networks
 -	Use CAPTCHAS
