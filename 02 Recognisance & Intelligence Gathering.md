@@ -165,7 +165,7 @@ Gathering information before the attack
   - **Expire Time** - time in which a zone transfer is allowed to complete
   - **TTL** - minimum TTL for records within the zone
 
-- **Tools:** theHarvister, Maltego, Shodan
+- **DNS Tools:** theHarvister, Maltego, Shodan
 
 - **Creepy:** geolocation tool for social media
 
