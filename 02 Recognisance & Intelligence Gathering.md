@@ -42,6 +42,7 @@ Gathering information before the attack
 **Passive Footprinting** Reading logs, passive log analysis
 
 - <code>journalctl</code> View logs
+- Cisco Router logs can be shown with the <code>show logging</code> command.
 
 **Network Devices** 
 
@@ -78,6 +79,11 @@ Gathering information before the attack
 | 7 | Debugging| Debug message |
 
 - **Netflow** - Summery of traffic
+  - Juniper’s Jflow and cflowd
+  - Citrix’s AppFlow
+  - HP’s NetStream
+  - sFlow - sampled flow
+
 - **DHCP** - Logs in /var/log/dhcp.log
 - **Firewall** - Contains ACLs & Logs
 - **System Logs(Syslogs)** - /var/logs/
@@ -96,6 +102,12 @@ Gathering information before the attack
     - **netstat -t** displays TCP
     - **netstat -u** displays UDP
     
+- **Net**
+    - **Net use** - lists network shares a device uses
+    - **Net user** - shows local user accounts
+    - **Net group** - domain controller command
+    - **Net config** - allows services to be controlled
+
 ### DNS + Whois
 
 **DNS**
