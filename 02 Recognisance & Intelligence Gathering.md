@@ -107,6 +107,34 @@ Gathering information before the attack
     - **Net user** - shows local user accounts
     - **Net group** - domain controller command
     - **Net config** - allows services to be controlled
+    
+### <u>NetBIOS Enumeration</u>
+
+- NetBIOS provides name servicing, connectionless communication and some Session layer stuff
+- The browser service in Windows designed to host information about all machines within domain or TCP/IP network segment
+- NetBIOS name is a **16-character ASCII string** used to identify devices
+- Command on Windows is **nbtstat**
+  - nbtstat (gives your own info)
+  - nbtstat -n (gives local table)
+  - nbtstat -A IPADDRESS (gives remote information)
+  - nbtstat -c (gives cache information)
+
+| Code | Type   | Meaning                   |
+| ---- | ------ | ------------------------- |
+| <1B> | UNIQUE | Domain master browser     |
+| <1C> | UNIQUE | Domain controller         |
+| <1D> | GROUP  | Master browser for subnet |
+| <00> | UNIQUE | Hostname                  |
+| <00> | GROUP  | Domain name               |
+| <03> | UNIQUE | Service running on system |
+| <20> | UNIQUE | Server service running    |
+
+- NetBIOS name resolution doesn't work on IPv6
+- **Other Tools**
+  - SuperScan
+  - Hyena
+  - NetBIOS Enumerator
+  - NSAuditor
 
 ### DNS + Whois
 
