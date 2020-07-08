@@ -11,5 +11,6 @@ Comptia CS0-001 Notes
 5. <a href="https://github.com/ReefMeeter/CySA/blob/master/05.%20Building%20an%20Incident%20Response%20Plan.md">Building an Incident Response Plan</a>
 6. <a href="https://github.com/ReefMeeter/CySA/blob/master/06.%20Analysing%20Symptoms%20for%20Incident%20Response.md">Analysing Symptoms for Incident Response</a>
 7. <a href="https://github.com/ReefMeeter/CySA/blob/master/07.%20Performing%20Forensic%20Analysis.md">Performing Forensic Analysis</a>
-### Security Architecture  
 8. <a href="https://github.com/ReefMeeter/CySA/blob/master/08.%20Recovery%20%26%20Post-Incident%20Response.md">Recovery & Post-Incident Response</a>
+### Security Architecture & Tool Sets
+
