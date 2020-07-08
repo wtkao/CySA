@@ -10,3 +10,4 @@ Comptia CS0-001 Notes
 ## Cyber Incident Response
 ### <a href="https://github.com/ReefMeeter/CySA/blob/master/05.%20Building%20an%20Incident%20Response%20Plan.md">5 Building an Incident Response Plan</a>
 ### <a href="https://github.com/ReefMeeter/CySA/blob/master/06.%20Analysing%20Symptoms%20for%20Incident%20Response.md">6 Analysing Symptoms for Incident Response</a>
+### <a href="https://github.com/ReefMeeter/CySA/blob/master/07.%20Performing%20Forensic%20Analysis.md">7 Performing Forensic Analysis</a>
