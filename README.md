@@ -1,5 +1,7 @@
 # CySA+
-Comptia CS0-001 Notes
+Comptia CS0-001 Notes taken mostly from the <a href="https://www.amazon.com/CompTIA-CySA-Study-Guide-Packaging/dp/1119348978/">CompTIA CySA+ Study Guide: Exam CS0-001</a> by Mike Chapple & David Seidl. Other notes taken from <a href="https://nosecurity.blog/cysa+">https://nosecurity.blog/cysa+</a> and Daniel Arsenault's CySA <a href="https://docs.google.com/document/d/1_ipUc1Ge8ro5BnWL_eP77K_UPlzJ8bpb4mxwBaNijQw/edit">notes</a>.
+
+
 
 ### Threat Managment  
 1. <a href="https://github.com/ReefMeeter/CySA/blob/master/01.%20Defending%20Against%20CyberSecurity%20Threats.md">Defending Against Cyber Security Threats</a>
