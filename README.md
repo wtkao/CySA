@@ -4,7 +4,7 @@ Comptia CS0-001 Notes taken mostly from the <a href="https://www.amazon.com/Comp
 Examples of different logs and different attacks is logs:
 http://www.ossec.net/docs/log_samples/
 
-Other useful links(Not Mine): https://docs.google.com/document/d/e/2PACX-1vTphSqizkQdXueNMZR3nuLXC-gx5LW-fjadIXmnzF33DmwMc9Z5HiuN0K_mRE6IWkviLb3zBfz7dsYX/pub
+Other useful links(Not Mine): <a href="https://docs.google.com/document/d/e/2PACX-1vTphSqizkQdXueNMZR3nuLXC-gx5LW-fjadIXmnzF33DmwMc9Z5HiuN0K_mRE6IWkviLb3zBfz7dsYX/pub">Here</a>
 
 ### Threat Managment  
 1. <a href="https://github.com/ReefMeeter/CySA/blob/master/01.%20Defending%20Against%20CyberSecurity%20Threats.md">Defending Against Cyber Security Threats</a>
