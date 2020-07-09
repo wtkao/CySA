@@ -1,7 +1,10 @@
 # CySA+
-Comptia CS0-001 Notes taken mostly from the <a href="https://www.amazon.com/CompTIA-CySA-Study-Guide-Packaging/dp/1119348978/">CompTIA CySA+ Study Guide: Exam CS0-001</a> by Mike Chapple & David Seidl. Other notes taken from <a href="https://nosecurity.blog/cysa+">https://nosecurity.blog/cysa+</a> and Daniel Arsenault's CySA <a href="https://docs.google.com/document/d/1_ipUc1Ge8ro5BnWL_eP77K_UPlzJ8bpb4mxwBaNijQw/edit">notes</a>.
+Comptia CS0-001 Notes taken mostly from the <a href="https://www.amazon.com/CompTIA-CySA-Study-Guide-Packaging/dp/1119348978/">CompTIA CySA+ Study Guide: Exam CS0-001</a> by Mike Chapple & David Seidl. Other notes taken from <a href="https://nosecurity.blog/cysa+">https://nosecurity.blog/cysa+</a>, scottymcraigs <a href="https://github.com/scottymcraig/CEHv10StudyGuide">CEH notes</a> and Daniel Arsenault's CySA <a href="https://docs.google.com/document/d/1_ipUc1Ge8ro5BnWL_eP77K_UPlzJ8bpb4mxwBaNijQw/edit">notes</a>.  
 
+Examples of different logs and different attacks is logs:
+http://www.ossec.net/docs/log_samples/
 
+Other useful links(Not Mine): https://docs.google.com/document/d/e/2PACX-1vTphSqizkQdXueNMZR3nuLXC-gx5LW-fjadIXmnzF33DmwMc9Z5HiuN0K_mRE6IWkviLb3zBfz7dsYX/pub
 
 ### Threat Managment  
 1. <a href="https://github.com/ReefMeeter/CySA/blob/master/01.%20Defending%20Against%20CyberSecurity%20Threats.md">Defending Against Cyber Security Threats</a>
