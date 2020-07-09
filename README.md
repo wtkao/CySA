@@ -19,3 +19,4 @@ Other useful links(Not Mine): <a href="https://docs.google.com/document/d/e/2PAC
 8. <a href="https://github.com/ReefMeeter/CySA/blob/master/08.%20Recovery%20%26%20Post-Incident%20Response.md">Recovery & Post-Incident Response</a>
 ### Security Architecture & Tool Sets
 9. <a href="https://github.com/ReefMeeter/CySA/blob/master/09.%20Policy%20&%20Compliance.md">Policy & Compliance</a>
+10. <a href="https://github.com/ReefMeeter/CySA/blob/master/10.%20Defence%20in%20Depth%20Security%20Architecture.md">Defence in Depth Security Architecture</a>
