@@ -1,24 +1,34 @@
 ### Preventative
-IPS
+
+**IPS**
 - Sourcefire
 - Snort
 - Bro
-HIPS
-Firewall
+
+**HIPS**
+
+**Firewall**
+
 -	Cisco
 -	Palo Alto
 -	Check Point
 -	Antivirus
-Anti-malware
-EMET
-Web proxy
-Web Application Firewall (WAF)
+
+**Anti-malware**
+
+**EMET**
+
+**Web proxy**
+
+**Web Application Firewall (WAF)**
 
 -	ModSecurity
 -	NAXSI
 -	Imperva 
+
 ### Collective
-SIEM
+
+**SIEM**
 
 -	ArcSight
 -	QRadar
@@ -26,10 +36,12 @@ SIEM
 -	AlienVault
 -	OSSIM
 -	Kiwi Syslog
-Network scanning
+
+**Network scanning**
 
 -	NMAP
-Vulnerability scanning
+
+**Vulnerability scanning**
 
 -	Qualys
 -	Nessus
@@ -37,12 +49,16 @@ Vulnerability scanning
 -	Nexpose
 -	Nikto
 -	Microsoft Baseline Security Analyzer
-Packet capture
+
+**Packet capture**
+
 -	Wireshark
 -	tcpdump
 -	Network General
 -	Aircrack-ng
-Command line/IP utilities
+
+**Command line/IP utilities**
+
 -	netstat
 -	ping
 -	tracert/traceroute
@@ -50,10 +66,14 @@ Command line/IP utilities
 -	nslookup/dig
 -	Sysinternals
 -	OpenSSL
-IDS/HIDS
+
+**IDS/HIDS**
+
 -	Bro 
+
 ### Analytical
-Vulnerability scanning
+
+**Vulnerability scanning**
 
 -	Qualys
 -	Nessus
@@ -61,42 +81,60 @@ Vulnerability scanning
 -	Nexpose
 -	Nikto
 -	Microsoft Baseline Security Analyzer
-Monitoring tools
+
+**Monitoring tools**
+
 -	MRTG
 -	Nagios
 -	SolarWinds
 -	Cacti
 -	NetFlow Analyzer
-Interception proxy
+
+**Interception proxy**
 
 -	Burp Suite
 -	Zap
 -	Vega 
+
 ###  Exploit
-Interception proxy
+
+**Interception proxy**
+
 -	Burp Suite
 -	Zap
 -	Vega
-Exploit framework
+
+**Exploit framework**
+
 -	Metasploit
 -	Nexpose
-Fuzzers
+
+**Fuzzers**
+
 -	Untidy
 -	Peach Fuzzer
 -	Microsoft SDL File/Regex Fuzzer 
+
 ### Forensics
--	Forensic suites
+
+**Forensic suites**
+
 -	EnCase
 -	FTK
 -	Helix
 -	Sysinternals
 -	Cellebrite
-Hashing
+
+**Hashing**
 
 -	MD5sum
 -	SHAsum
-Password cracking
+
+**Password cracking**
+
 -	John the Ripper
 -	Cain & Abel
-Imaging
+
+**Imaging**
+
 -	DD
