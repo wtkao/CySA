@@ -23,6 +23,6 @@ Other useful links(Not Mine): <a href="https://docs.google.com/document/d/e/2PAC
 11. <a href="https://github.com/ReefMeeter/CySA/blob/master/11.%20Identity%20and%20Access%20Management.md">Identity & Access Managment</a>
 12. <a href="https://github.com/ReefMeeter/CySA/blob/master/12.%20Software%20Development%20Security.md">Software Sevelopment Security</a>
 
-https://github.com/ReefMeeter/CySA/blob/master/12.%20Software%20Development%20Security.md
+
 
 
