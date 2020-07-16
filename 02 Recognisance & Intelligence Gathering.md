@@ -67,16 +67,16 @@ Gathering information before the attack
   - OpUtils 5
   - SNScan
 
-| Level | Name| Example|
-| ----- | ----| -------|
-| 0 | Emergency| Failure causing shutdown |
-| 1 | Alerts| Temperature exceeded |
-| 2 | Critical| Software failure |
-| 3 | Errors| Interface down |
-| 4 | Warning| Config change |
-| 5 | Notification| Protocol up/down |
-| 6 | Informational| ACL violation |
-| 7 | Debugging| Debug message |
+| Level | Name		| Example			|
+| ----- | --------------| ------------------------------|
+| 0 | Emergency		| Failure causing shutdown 	|
+| 1 | Alerts		| Temperature exceeded 		|
+| 2 | Critical		| Software failure		|
+| 3 | Errors		| Interface down 		|
+| 4 | Warning		| Config change 		|
+| 5 | Notification	| Protocol up/down 		|
+| 6 | Informational	| ACL violation 		|
+| 7 | Debugging		| Debug message 		|
 
 - **Netflow** - Summery of traffic
   - Juniper’s Jflow and cflowd
