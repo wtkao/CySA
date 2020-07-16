@@ -21,5 +21,8 @@ Other useful links(Not Mine): <a href="https://docs.google.com/document/d/e/2PAC
 9. <a href="https://github.com/ReefMeeter/CySA/blob/master/09.%20Policy%20&%20Compliance.md">Policy & Compliance</a>
 10. <a href="https://github.com/ReefMeeter/CySA/blob/master/10.%20Defence%20in%20Depth%20Security%20Architecture.md">Defence in Depth Security Architecture</a>
 11. <a href="https://github.com/ReefMeeter/CySA/blob/master/11.%20Identity%20and%20Access%20Management.md">Identity & Access Managment</a>
+12. <a href="https://github.com/ReefMeeter/CySA/blob/master/12.%20Software%20Development%20Security.md">Software Sevelopment Security</a>
+
+https://github.com/ReefMeeter/CySA/blob/master/12.%20Software%20Development%20Security.md
 
 
