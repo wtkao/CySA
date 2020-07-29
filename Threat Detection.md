@@ -7,3 +7,5 @@
 **domain harvesting** -  relies on message rejection error messages to help the individual running the probe to determine which email accounts actually exist
 
 Printer normally use ports - 515, 631, 9100
+
+nmap provides both hardware and operating system identification capabilities as part of its common platform enumeration features. cpe:/o indicates operating system identification, and cpe:/h indicates hardware identification.
