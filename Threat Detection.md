@@ -5,3 +5,5 @@
  **Automated shunning**, whether via an IPS or other technology, can block attackers but can also prevent penetration testers from being able to conduct scans or attacks  
  
 **domain harvesting** -  relies on message rejection error messages to help the individual running the probe to determine which email accounts actually exist
+
+Printer normally use ports - 515, 631, 9100
