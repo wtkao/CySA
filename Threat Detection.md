@@ -21,9 +21,9 @@ nmap provides both hardware and operating system identification capabilities as 
  
  ### iptables
  3 chains
-  - Inbount
+  - Input
   - Forwarded
-  - Remote
+  - Output
   
   <code>iptables -L</code> Lists Rules  
   
