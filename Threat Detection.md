@@ -14,11 +14,10 @@ nmap provides both hardware and operating system identification capabilities as 
 
  - **Oracle** : 1512
  - **Postgress** : 5431
- - **MySQL** : 3306
+ - **MySQL** : 3306  
  - **MSSQL** : 1433,1434
  
- 
- - MSRCP : 135 - for application to share processse remotly
+ - **MSRCP** : 135 - for application to share processse remotly
  
  ### iptables
  3 chains
@@ -27,8 +26,11 @@ nmap provides both hardware and operating system identification capabilities as 
   - Remote
   
   <code>iptables -L</code> Lists Rules  
+  
   <code>iptables -A INPUT -s 10.10.10.10 -j DROP</code> Add a rule to end of list(Append)  
+  
   <code>iptables -I INPUT -s 10.10.10.10 -j DROP</code> Add a rule to start of list(Insert)  
+  
   <code>iptables -D INPUT <number></code> Delete rule <number>  
  
  
