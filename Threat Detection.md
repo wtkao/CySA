@@ -29,7 +29,7 @@ nmap provides both hardware and operating system identification capabilities as 
   
   <code>iptables -A INPUT -s 10.10.10.10 -j DROP</code> Add a rule to end of list(Append)  
   
-  <code>iptables -I INPUT -s 10.10.10.10 -j DROP</code> Add a rule to start of list(Insert)  
+  <code>iptables -I INPUT -s 10.10.10.10 -j ALLOW</code> Add a rule to start of list(Insert)  
   
   <code>iptables -D INPUT <number></code> Delete rule <number>  
  
