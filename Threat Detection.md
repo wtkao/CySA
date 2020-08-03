@@ -10,17 +10,23 @@ nmap provides both hardware and operating system identification capabilities as 
 
 ## PORTS
 
-### Databases
+### Ports
 
  - **Oracle** : 1512
  - **Postgress** : 5431
  - **MySQL** : 3306  
  - **MSSQL** : 1433,1434
- 
- - **MSRCP** : 135 - for application to share processse remotly
- 
+ - **MSRCP** : 135 - for application to share processse remotly  
+ - **Printers**
+   - 515
+   - 631
+   - 9100
+ - **VNC** : 5900
+ - **IRC** : 6667
+ - **RADIUS** : 1812, 1813
+  
  ### iptables
- 3 chains
+ **3 chains**
   - Input
   - Forwarded
   - Output
@@ -33,4 +39,26 @@ nmap provides both hardware and operating system identification capabilities as 
   
   <code>iptables -D INPUT <number></code> Delete rule <number>  
  
+ **wmic** - Windows Management Instrumentation  
+  manage services
+ 
+   - Back-off = timeout  
+   
+   <code>login block-for <Time period in seconds> attempts <Max no of failed attempts>within <Time period in seconds></code>
+ 
+ ### NetBIOS Enumeration
+ 
+  - <code>**nbtstat**</code> local machine info  
+  - <code>**nbtstat -a <RemoteName>**</code> RemoteName remote system
+  - <code>**nbtstat -A <IP Address</code> IP remote system
+  - <code>**nbtstat -n**</code> Local table
+  - <code>**nbtstat -c**</code> Cache information
+ 
+ ### Linux commands
+ <code>df</code> disk space
+ <code>strings</code> shows ascii chars from exacutables and binarys
+ <code>ln <file1> <file2></code> Link files
+  <code>lsof</code> list open files
+ 
+ **SYN Cookies** anti DDoS technique  
  
