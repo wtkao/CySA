@@ -50,15 +50,19 @@ nmap provides both hardware and operating system identification capabilities as 
  
   - <code>**nbtstat**</code> local machine info  
   - <code>**nbtstat -a <RemoteName>**</code> RemoteName remote system
-  - <code>**nbtstat -A <IP Address</code> IP remote system
+  - <code>**nbtstat -A <IP Address**</code> IP remote system
   - <code>**nbtstat -n**</code> Local table
   - <code>**nbtstat -c**</code> Cache information
  
  ### Linux commands
- <code>df</code> disk space
- <code>strings</code> shows ascii chars from exacutables and binarys
- <code>ln <file1> <file2></code> Link files
-  <code>lsof</code> list open files
+ <code>**df**</code> disk space  
+ 
+ <code>**strings**</code> shows ascii chars from exacutables and binarys  
+ 
+ <code>**ln**<file1> <file2></code> Link files  
+ 
+ <code>**lsof**</code> list open files  
+ 
  
  **SYN Cookies** anti DDoS technique  
  
