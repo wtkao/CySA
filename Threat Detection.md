@@ -37,20 +37,20 @@ nmap provides both hardware and operating system identification capabilities as 
   
   <code>iptables -I INPUT -s 10.10.10.10 -j ALLOW</code> Add a rule to start of list(Insert)  
   
-  <code>iptables -D INPUT <number> </code> Delete rule <number>  
+  <code>iptables -D INPUT (number) </code> Delete rule (number)  
  
  **wmic** - Windows Management Instrumentation  
   manage services
  
    - Back-off = timeout  
    
-   <code>login block-for <Time period in seconds> attempts <Max no of failed attempts>within <Time period in seconds></code>
- 
+   <code>login block-for (Time period in seconds) attempts (Max no of failed attempts) within (Time period in seconds)</code>
+
  ### NetBIOS Enumeration
  
   - <code>**nbtstat**</code> local machine info  
   - <code>**nbtstat -a <RemoteName>**</code> RemoteName remote system
-  - <code>**nbtstat -A <IP Address**</code> IP remote system
+  - <code>**nbtstat -A <IP Address>**</code> IP remote system
   - <code>**nbtstat -n**</code> Local table
   - <code>**nbtstat -c**</code> Cache information
  
