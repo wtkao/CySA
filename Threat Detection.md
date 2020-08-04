@@ -37,7 +37,7 @@ nmap provides both hardware and operating system identification capabilities as 
   
   <code>iptables -I INPUT -s 10.10.10.10 -j ALLOW</code> Add a rule to start of list(Insert)  
   
-  <code>iptables -D INPUT <number></code> Delete rule <number>  
+  <code>iptables -D INPUT <number> </code> Delete rule <number>  
  
  **wmic** - Windows Management Instrumentation  
   manage services
