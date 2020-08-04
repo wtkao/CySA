@@ -49,8 +49,8 @@ nmap provides both hardware and operating system identification capabilities as 
  ### NetBIOS Enumeration
  
   - <code>**nbtstat**</code> local machine info  
-  - <code>**nbtstat -a <RemoteName>**</code> RemoteName remote system
-  - <code>**nbtstat -A <IP Address>**</code> IP remote system
+  - <code>**nbtstat -a (RemoteName)**</code> RemoteName remote system
+  - <code>**nbtstat -A (IP Address)**</code> IP remote system
   - <code>**nbtstat -n**</code> Local table
   - <code>**nbtstat -c**</code> Cache information
  
