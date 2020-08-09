@@ -1,0 +1,7 @@
+getfacl - 
+Linux provides a pair of useful ACL backup and restore commands: getfacl allows recursive backups of directories, including all permissions to a text file, and setfacl restores those permissions from the backup file.  
+
+linux buffOF protection - The NX bit sets fine-grained permissions to mapped memory regions, while ASLR ensures that shared libraries are loaded at randomized locations  
+
+linux file command  
+
